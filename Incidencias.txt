@@ -1,0 +1,8 @@
+1 T Ayuntamiento
+2 P Desayuno
+3 T Luto
+4 P Gestion Personal
+5 T Medico Empresa
+6 T Reunion
+7 P Fumar
+8 P Cumplea¤os
